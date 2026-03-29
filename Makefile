@@ -12,7 +12,7 @@ include $(DEVKITARM)/3ds_rules
 #-------------------------------------------------------------------------------
 # Project settings
 #-------------------------------------------------------------------------------
-TARGET          :=  3ds-certificate-ripper
+TARGET          :=  certificate-ripper
 BUILD           :=  build
 SOURCES         :=  source
 DATA            :=  data

@@ -21,17 +21,15 @@ from your 3DS device. Inspired by [Hakky54/certificate-ripper](https://github.co
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/Hakky54/3ds-certificate-ripper/releases) page and download `3ds-certificate-ripper.tar.gz`.
+1. Go to the [Releases](https://github.com/Hakky54/3ds-certificate-ripper/releases) page and download `certificate-ripper.3dsx`.
 
-2. Extract the archive — it contains `3ds-certificate-ripper.3dsx`.
-
-3. Create the folder `3ds/` on your SD card and copy the file there:
+2. Copy the file there:
 
    ```
-   SD:/3ds/3ds-certificate-ripper.3dsx
+   SD:/3ds/certificate-ripper.3dsx
    ```
 
-4. Insert the SD card into your 3DS and launch the app via the **Homebrew Launcher**.
+3. Insert the SD card into your 3DS and launch the app via the **Homebrew Launcher**.
 
 ---
 
