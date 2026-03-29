@@ -1,0 +1,12 @@
+# Build artefacts
+build/
+*.3dsx
+*.elf
+*.smdh
+*.map
+
+# IntelliJ / CLion
+.idea/
+*.iml
+*.iws
+*.ipr
